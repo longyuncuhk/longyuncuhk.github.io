@@ -6,7 +6,7 @@ date: 2020-3
 venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)'
 paperurl: 'https://ieeexplore.ieee.org/document/9050860'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper is about the modeling the connection between the image content and the region-wise code allocation scheme. It's an extention of our CVPR paper.
 
 [Download paper here](https://ieeexplore.ieee.org/document/9050860)
 
