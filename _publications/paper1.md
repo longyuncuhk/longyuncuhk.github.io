@@ -10,14 +10,15 @@ This paper is about the modeling the connection between the image content and th
 
 [Download paper here](https://ieeexplore.ieee.org/document/9050860)
 
-Recommended citation: 
+Recommended citation:  
+
 @ARTICLE{li2020learning,  
-  author={Li, Mu and Zuo, Wangmeng and Gu, Shuhang and You, Jane and Zhang, David},   
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},   
-  title={Learning Content-Weighted Deep Image Compression},   
-  year={2021},  
-  volume={43},
-  number={10},  
-  pages={3446-3461},
-  doi={10.1109/TPAMI.2020.2983926}
-}  
+  &emsp;author={Li, Mu and Zuo, Wangmeng and Gu, Shuhang and You, Jane and Zhang, David},  
+  &emsp;journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},   
+  &emsp;title={Learning Content-Weighted Deep Image Compression},   
+  &emsp;year={2021},  
+  &emsp;volume={43},  
+  &emsp;number={10},  
+  &emsp;pages={3446-3461},  
+  &emsp;doi={10.1109/TPAMI.2020.2983926}  
+  }  
