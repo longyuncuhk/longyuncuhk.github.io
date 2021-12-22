@@ -8,7 +8,7 @@ paperurl: 'https://ieeexplore.ieee.org/document/9050860'
 ---
 This paper is about the modeling the connection between the image content and the region-wise code allocation scheme. It's an extention of our CVPR paper.
 
-![Demo](paper1.jpg)
+![Demo](/images/paper1.jpg)
 
 [Download paper here](https://ieeexplore.ieee.org/document/9050860)
 
