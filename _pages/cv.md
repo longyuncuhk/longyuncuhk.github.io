@@ -31,7 +31,7 @@ Skills
 
 Publications
 ======
-  * ***Mu Li***, Wangmeng Zuo, Shuhang Gu, Jane You, David Zhang. "Learning Content-Weighted Deep Image Compression." **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, 2020. (<font color=#0000FF>JCR Q1, IF: 17.861</font>)
+  * ***Mu Li***, Wangmeng Zuo, Shuhang Gu, Jane You, David Zhang. "Learning Content-Weighted Deep Image Compression." **IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)**, 2020. (JCR Q1, IF: 17.861)
   * ***Mu Li***, Kede Ma, Jane You, David Zhang, Wangmeng Zuo. "Efficient and Effective Context-Based Convolutional Entropy Modelling for Image Compression." **IEEE Transactions on Image Processing (TIP)**, 2020. (JCR Q1, IF: 10.856)
   * ***Mu Li***, Kai Zhang, Jinxing Li, Radu Timofte, Wangmeng Zuo, and David Zhang. "Learning Context-Based Non-local Entropy Modeling for Image Compression." **IEEE Transactions on Neural Networks and Learning System (TNNLS)**, 2021. (JCR Q1, IF:10.451)
   * ***Mu Li***, Wangmeng Zuo, Shuhang Gu, Debin Zhao, David Zhang, "Learning convolutional networks for content-weighted image compression". In **Proc. of IEEE Conference on Computer Vision and Pattern Recognition (CVPR)**, 2018. (Top Conference, CCF A, Citation 246)
@@ -41,7 +41,7 @@ Publications
   * Jinxing Li, ***Mu Li*(Corresponding Author)***, Guangming Lu, Bob Zhang, Hongpeng Yin, and David Zhang. "Similarity and diversity induced paired projection for cross-modal retrieval." **Information Sciences**, 2020. (JCR Q1, IF: 6.795)
   
 
-Service and leadership
+Service
 ======
 * Conference Reviewer: 
   * AAAI Conference on Artificial Intelligence (AAAI) 2019
@@ -58,3 +58,11 @@ Service and leadership
   * IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
   * IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 
+Honors and Rewarding
+======
+* Overseas High-Caliber Personnel 海外高层次人才“孔雀计划” (Level C), 2020-2024
+* Shenlong High-level Talent 深龙英才计划 (Category C), 2021-2025
+* Hong Kong PhD Fellowship, 2015-2019
+* National Scholarship, 2013-2014 
+* Fuji Xerox Scholarship, 2012-2013
+* National Scholarship, 2011-2012
