@@ -13,7 +13,7 @@ This paper propose the first identity-aware facial attribute editing model.
 
 Recommended citation: 
 
-@INPROCEEDINGS{8578437,  
+@INPROCEEDINGS{li2016deep,  
 &emsp;author={Li, Mu and Zuo, Wangmeng and Zhang, David},  
 &emsp;booktitle={arXiv preprint arXiv:1610.05586},   
 &emsp;title={Deep identity-aware transfer of facial attributes},   
