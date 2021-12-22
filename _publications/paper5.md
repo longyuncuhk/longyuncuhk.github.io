@@ -9,7 +9,7 @@ paperurl: 'https://ieeexplore.ieee.org/document/8578437'
 ---
 Combine the distance and similarity for metric learning.
 
-![Demo](/_publications/paper5.jpg)
+![Demo](/images/paper5.jpg)
 
 [Download paper here](https://ieeexplore.ieee.org/document/8578437)
 
