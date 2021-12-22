@@ -13,7 +13,7 @@ This paper propose the first content-weighted deep learning framework for image 
 
 Recommended citation: 
 
-@INPROCEEDINGS{8578437,  
+@INPROCEEDINGS{li2018learning,  
 &emsp;author={Li, Mu and Zuo, Wangmeng and Gu, Shuhang and Zhao, Debin and Zhang, David},  
 &emsp;booktitle={2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition},   
 &emsp;title={Learning Convolutional Networks for Content-Weighted Image Compression},   
