@@ -9,7 +9,7 @@ paperurl: 'https://ieeexplore.ieee.org/document/9521684'
 ---
 This paper explore the nolocal property of the code context for accuate entropy modeling.
 
-![Demo](/_publications/paper3.jpg)
+![Demo](/images/paper3.jpg)
 
 [Download paper here](https://ieeexplore.ieee.org/document/9521684)
 
