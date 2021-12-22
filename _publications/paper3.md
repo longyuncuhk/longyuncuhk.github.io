@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper3
 excerpt: 'This paper explore the nolocal property of the code context for accuate entropy modeling.'
 date: 2021-08-24
-venue: 'Journal 1'
+venue: 'IEEE Transactions on Neural Networks and Learning Systems'
 paperurl: 'https://ieeexplore.ieee.org/document/9521684'
 ---
 This paper explore the nolocal property of the code context for accuate entropy modeling.
