@@ -3,7 +3,7 @@ title: "Shift-Net: Image Inpainting via Deep Feature Rearrangement"
 collection: publications
 permalink: /publication/paper4
 excerpt: 'A new model for image inpainting.'
-date: 2018-08-24
+date: 2018-10-09
 venue: 'Proceedings of the European Conference on Computer Vision (ECCV)'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-030-01264-9_1'
 ---
