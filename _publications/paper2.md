@@ -9,7 +9,7 @@ paperurl: 'https://ieeexplore.ieee.org/document/9067005'
 ---
 This paper propose a group context which enables parallel encoding and decoding inner groups for the 3D code block produced in DNN-based compression framework.
 
-![Demo](/_publications/paper2.jpg)
+![Demo](/images/paper2.jpg)
 
 [Download paper here](https://ieeexplore.ieee.org/document/9067005)
 
