@@ -9,6 +9,8 @@ paperurl: 'https://arxiv.org/abs/1610.05586'
 ---
 This paper propose the first identity-aware facial attribute editing model.
 
+![Demo](/_publications/paper6.jpg)
+
 [Download paper here](https://arxiv.org/abs/1610.05586)
 
 Recommended citation: 
