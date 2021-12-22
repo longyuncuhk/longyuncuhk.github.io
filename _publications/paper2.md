@@ -3,7 +3,7 @@ title: "Efficient and Effective Context-Based Convolutional Entropy Modelling fo
 collection: publications
 permalink: /publication/paper2
 excerpt: 'This paper propose a group context which enables parallel encoding and decoding inner groups for the 3D code block produced in DNN-based compression framework.'
-date: 2020-04
+date: 2020-04-14
 venue: 'IEEE Transactions on Image Processing (TIP)'
 paperurl: 'https://ieeexplore.ieee.org/document/9067005'
 ---
