@@ -9,6 +9,8 @@ paperurl: 'https://ieeexplore.ieee.org/document/8578437'
 ---
 This paper propose the first content-weighted deep learning framework for image compression.
 
+![Demo](/_publications/paper4.jpg)
+
 [Download paper here](https://ieeexplore.ieee.org/document/8578437)
 
 Recommended citation: 
