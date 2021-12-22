@@ -2,7 +2,7 @@
 title: "Learning Content-Weighted Deep Image Compression"
 collection: publications
 permalink: /publication/paper1
-date: 2020-3
+date: 2020-03-30
 venue: 'IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)'
 paperurl: 'https://ieeexplore.ieee.org/document/9050860'
 ---
