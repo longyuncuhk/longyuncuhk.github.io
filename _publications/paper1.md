@@ -14,12 +14,12 @@ Inflammation or dysbacteriosis-derived lipopolysaccharides (LPS) adversely influ
 
 Recommended citation: 
 
-@article{Long18072018,
-&emsp;author = {Yun Long and Guang Wang and Ke Li and Zongyi Zhang and Ping Zhang and Jing Zhang and Xiaotan Zhang and Yongping Bao and Xuesong Yang and Pengcheng Wang and},
-&emsp;title = {Oxidative stress and NF-κB signaling are involved in LPS induced pulmonary dysplasia in chick embryos},
-&emsp;journal = {Cell Cycle},
-&emsp;volume = {17},
-&emsp;number = {14},
-&emsp;pages = {1757--1771},
-&emsp;year = {2018},
+@article{Long18072018,  
+&emsp;author = {Yun Long and Guang Wang and Ke Li and Zongyi Zhang and Ping Zhang and Jing Zhang and Xiaotan Zhang and Yongping Bao and Xuesong Yang and Pengcheng Wang and},  
+&emsp;title = {Oxidative stress and NF-κB signaling are involved in LPS induced pulmonary dysplasia in chick embryos},  
+&emsp;journal = {Cell Cycle},  
+&emsp;volume = {17},  
+&emsp;number = {14},  
+&emsp;pages = {1757--1771},  
+&emsp;year = {2018},  
 }
