@@ -3,7 +3,7 @@ title: "iMeta Conference 2024: Building an innovative scientific research ecosys
 collection: publications
 permalink: /publication/paper3
 excerpt: ''
-date: 2024-12
+date: 2024-12-15
 venue: 'iMeta'
 paperurl: 'https://onlinelibrary.wiley.com/doi/full/10.1002/imt2.251'
 ---
