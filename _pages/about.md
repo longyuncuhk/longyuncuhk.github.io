@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Homepage of Dr. Mu Li"
+title: "Homepage of Dr. Yun Long"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
