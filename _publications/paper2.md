@@ -15,9 +15,9 @@ Recommended citation:
 
 
 @article{HE2022127706,  
-&emsp;title = {Dietary alcohol exacerbates the hepatotoxicity induced by pyrrolizidine alkaloids: Hazard from food contamination},
-&emsp;journal = {Journal of Hazardous Materials},
-&emsp;volume = {424},
-&emsp;pages = {127706},
-&emsp;year = {2022},
-}
+&emsp;title = {Dietary alcohol exacerbates the hepatotoxicity induced by pyrrolizidine alkaloids: Hazard from food contamination},  
+&emsp;journal = {Journal of Hazardous Materials},  
+&emsp;volume = {424},  
+&emsp;pages = {127706},  
+&emsp;year = {2022},  
+} 
