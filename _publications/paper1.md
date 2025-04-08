@@ -2,7 +2,7 @@
 title: "Oxidative stress and NF-κB signaling are involved in LPS induced pulmonary dysplasia in chick embryos"
 collection: publications
 permalink: /publication/paper1
-excerpt: ''
+excerpt: 
 date: 2018-08-02
 venue: 'Cell Cycle'
 paperurl: 'https://www.tandfonline.com/doi/full/10.1080/15384101.2018.1496743#abstract'
