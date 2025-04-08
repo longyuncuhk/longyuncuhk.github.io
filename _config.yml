@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Mu Li"
+title                    : "Dr. Yun Long"
 title_separator          : "-"
-name                     : &name "Mu Li"
+name                     : &name "Yun Long"
 description              : &description "personal description"
-url                      : https://limuhit.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://longyuncuhk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "limuhit.github.io"
+repository               : "longyuncuhk.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Mu Li"
+  name             : "Dr. Yun Long"
   avatar           : "profile.jpg"
-  bio              : "Postdoctoral fellow at The Chinese University of Hong Kong, Shenzhen."
+  bio              : "Postdoctoral fellow at the Southern University of Science and Technology (SUSTech)"
   location         : "Shenzhen, Guangdong, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=61inLP4AAAAJ&hl=zh-CN"
-  email            : "limuhit@gmail.com"
+  email            : "longyunjn@163.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "limuhit"
+  github           : "longyuncuhk"
   google_plus      :
   keybase          :
   instagram        :
