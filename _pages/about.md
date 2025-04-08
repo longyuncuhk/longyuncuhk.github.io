@@ -10,4 +10,4 @@ redirect_from:
 
 
 
-Mu Li received his BCS in Computer Science and Technology in 2015 from Harbin Institute of Technology, and the Ph.D. degree from the Department of Computing, the Hong Kong Polytechnic University, Hong Kong, China, in 2020. He is the owner of Hong Kong PhD Fellowship. He is currently a postdoctoral researcher at School of Data Science, the Chinese University of Hong Kong, Shenzhen. His research interests include deep learning, image generation, and image compression. Recently, he is working on 360-degree image modeling and compresion.
+Yun Long received her Ph.D. degree in Biomedical Sciences from the School of Biomedical Sciences, The Chinese University of Hong Kong, in 2023. She is currently a postdoctoral researcher at the Southern University of Science and Technology (SUSTech), Shenzhen, China. Her research interests include human diseases, toxicology, and multi-omics analysis. Recently, her work has focused on the gut microbiota and the application of artificial intelligence in biomedical research.
