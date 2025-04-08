@@ -11,12 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.CS., School of Computer Science and Technology, Harbin Institute of Technology,  2011.09-2015.06
-* Ph.D., School of Biomedical Sciences, The Chinese University of Hong Kong, 2015.09 - 2020.03
+* B.Sc., Biotechnology, Hubei University of Technology, 2011.09-2015.06
+* M.Sc., Basic Medical Sciences, Jinan University,  2015.09-2018.06
+* Ph.D., School of Biomedical Sciences, The Chinese University of Hong Kong, 2019.08 - 2023.09
 
 Work experience
 ======
-* 2024.01 - Now: Postdoctoral Fellow
+* 2024.02 - Now: Postdoctoral Fellow
   * Southern University of Science and Technology
   * Supervisor: Professor Liang Yang
   
